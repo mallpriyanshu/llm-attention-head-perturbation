@@ -62,4 +62,5 @@ pip install torch transformers datasets scikit-learn tqdm tabulate
 - Per-run results are saved in `results/` as CSVs.
 - Aggregated rankings are saved in `Acc avg results/` and `F1 avg results/`.
 
-  <img src="heatmap_accuracy_drop.png" width="300"/>
+  <img src="heatmap_accuracy_drop.png" width="600"/>
+  <img src="heatmap_f1_drop.png" width="600"/>
